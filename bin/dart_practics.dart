@@ -4,6 +4,7 @@ void main() {
     'City': 'Brahmanbaria',
     'Department': 'CSE',
     'Year': 'Final Year',
+    'semester': '7th',
   };
   print(person['Department']);
 }
